@@ -4,6 +4,25 @@ An interactive app that summarizes and answers questions from arXiv research pap
 
 ---
 
+## 🖼️ Demo Screenshot
+
+<p align="center">
+  <img src="assets/image.png" width="600" alt="Streamlit UI of Research Paper Summarizer"/>
+</p>
+
+<p align="center">
+  <img src="assets/demo.png" width="600" alt="Streamlit UI of Research Paper Summarizer"/>
+</p>
+
+---
+
+## 🌐 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://research-paper-summarizer-wj3rhzxeahmxdkqfbpsn7q.streamlit.app/)
+
+
+---
+
 ## 🚀 Features
 
 - 🔎 **arXiv Integration**: Load research papers directly using their arXiv IDs  
@@ -25,17 +44,7 @@ An interactive app that summarizes and answers questions from arXiv research pap
 | OpenAI GPT-4o | LLM for generation |
 | dotenv | API key management |
 
----
 
-## 🖼️ Demo Screenshot
-
-<p align="center">
-  <img src="assets/image.png" width="600" alt="Streamlit UI of Research Paper Summarizer"/>
-</p>
-
-<p align="center">
-  <img src="assets/demo.png" width="600" alt="Streamlit UI of Research Paper Summarizer"/>
-</p>
 ---
 
 ## 📦 Setup Instructions
