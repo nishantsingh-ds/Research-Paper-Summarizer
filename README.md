@@ -30,7 +30,7 @@ An interactive app that summarizes and answers questions from arXiv research pap
 ## 🖼️ Demo Screenshot
 
 <p align="center">
-  <img src="images/demo_screenshot.png" width="600" alt="Streamlit UI of Research Paper Summarizer"/>
+  <img src="assets/image.png" width="600" alt="Streamlit UI of Research Paper Summarizer"/>
 </p>
 
 ---
