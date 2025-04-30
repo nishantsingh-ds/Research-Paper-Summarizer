@@ -58,4 +58,4 @@ OPENAI_API_KEY=your_openai_api_key
 HF_TOKEN=your_huggingface_token
 
 # 5. Run the app
-streamlit run app.py
+streamlit run streamlit_rag_system.py
