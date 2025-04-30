@@ -40,7 +40,7 @@ An interactive app that summarizes and answers questions from arXiv research pap
 ```bash
 # 1. Clone the repo
 git clone https://github.com/nishantsingh-ds/langchain-research-paper-summarizer.git
-cd research-paper-summarizer
+cd langchain-research-paper-summarizer
 
 # 2. Create virtual environment (optional but recommended)
 python -m venv venv
